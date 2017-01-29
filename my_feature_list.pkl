@@ -1,8 +1,0 @@
-(lp0
-S'poi'
-p1
-aS'from_poi_ratio'
-p2
-aS'to_poi_ratio'
-p3
-a.
